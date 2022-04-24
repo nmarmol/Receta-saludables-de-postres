@@ -1,0 +1,29 @@
+<style>
+h1.fr {
+    color:s#000000 ;
+}
+
+h3{
+    color: rgb(36, 202, 202) ;
+}
+
+
+body{
+    background-color: rgb(238, 220, 220) ;
+}
+
+.fondo{
+    color: rgb(201, 63, 70) ;
+}
+
+h1{
+    background-color: rgb(199, 227, 250);
+    padding: 25px 50px 25px 50px;
+  }
+  h3{
+    background-color: rgb(250, 199, 199);
+    padding: 25px 50px 25px 50px;
+  }
+
+
+</style>
