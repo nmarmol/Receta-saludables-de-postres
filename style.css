@@ -9,7 +9,7 @@ h3{
 
 
 body{
-    background-color: rgb(238, 220, 220) ;
+    background-color: rgb(232, 238, 220) ;
 }
 
 .fondo{
@@ -20,10 +20,15 @@ h1{
     background-color: rgb(199, 227, 250);
     padding: 25px 50px 25px 50px;
   }
+  
   h3{
     background-color: rgb(250, 199, 199);
     padding: 25px 50px 25px 50px;
   }
+
+  .fondo2{
+    color: rgb(103, 131, 25) ;
+}
 
 
 </style>
